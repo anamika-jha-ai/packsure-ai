@@ -2,7 +2,7 @@
 
 **Scan. Verify. Comply.**
 
-A polished SIH prototype for packaged commodity compliance inspection.
+A polished prototype for packaged commodity compliance inspection.
 
 ## Project structure
 
