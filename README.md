@@ -39,9 +39,7 @@ packsure-ai/
         └── ui.js              # Toasts and status badges
 ```
 
-## Run locally
-
-### Recommended
+## Run locally on your device
 
 ```bash
 npm install
