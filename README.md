@@ -4,6 +4,8 @@
 
 A polished prototype for packaged commodity compliance inspection.
 
+developed by : ANAMIKA JHA
+
 ## Project structure
 
 ```text
